@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get "/pages" => "pages#index"
+  get "/show" => "new_branch_ex#show"
 end
